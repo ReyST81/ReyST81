@@ -4,7 +4,7 @@
 
 #### A Student, Developer | Mobile Enthusiast | Nikke Player :3
 
-src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
+<src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
 
 Lifetime Debugger | Flutter Enthusiast
 
