@@ -1,4 +1,4 @@
-<img display="float" align="right" width="400" src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
+<img display="float" align="right" width="400" src="[https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png](https://i0.wp.com/nikke.gg/wp-content/uploads/4D4DCDBC-D3C7-439E-9DDD-6FEBB1FDCD86.gif?resize=700%2C700&ssl=1)">
 
 <h1 align="left">Hi there 👋</h1>
 
