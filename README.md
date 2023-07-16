@@ -4,7 +4,7 @@
 
 #### A Student, Developer | Mobile Enthusiast | Nikke Player :3
 
-<img align="right" alt="GIF" src="https://i0.wp.com/nikke.gg/wp-content/uploads/AD2DE8E7-A1B0-494F-A737-0BCF4FDBEF50.gif?resize=700%2C700&ssl=1" width="350"  />
+<img align="right" alt="GIF" src="https://media.tenor.com/t5Ym3Ce3ZZkAAAAC/goddess-of-victory-nikke.gif" width="350"  />
 Lifetime Debugger | Flutter Enthusiast
 
 - Working for my inner peace.
