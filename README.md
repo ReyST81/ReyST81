@@ -1,15 +1,30 @@
-<img display="float" align="right" width="400" src="https://i0.wp.com/nikke.gg/wp-content/uploads/4D4DCDBC-D3C7-439E-9DDD-6FEBB1FDCD86.gif?resize=700%2C700&ssl=1">
 
-<h1 align="left">Hi ... ~ 👋</h1>
+### Hey there, I'm  reyhan septri asta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-Lifetime Debugger | Flutter Enthusiast | Nikke Player :3
+
+#### A Student, Developer | Mobile Enthusiast | Nikke Player :3
+
+<img align="right" alt="GIF" src="https://i0.wp.com/nikke.gg/wp-content/uploads/AD2DE8E7-A1B0-494F-A737-0BCF4FDBEF50.gif?resize=700%2C700&ssl=1" width="350"  />
+Lifetime Debugger | Flutter Enthusiast
+
+- Working for my inner peace.
+- Playing ARPG game.
 
 ## Social media :mailbox:
 
-[![Twitter URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/reyhan-septri-asta)
+[![Twitter URL](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reyhansep3asta/)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/reyhan-septri-asta)
 <img src="https://komarev.com/ghpvc/?username=ReyST81&label=Profile%20views&color=0e75b6&style=flat" alt="ReyST81" />
-[](https://wakatime.com/@bdb2fe5c-dd9d-41fc-ad5c-6f961618780e)
 
-# Tech Stack :computer:
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div>
