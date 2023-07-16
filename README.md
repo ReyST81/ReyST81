@@ -4,7 +4,8 @@
 
 #### A Student, Developer | Mobile Enthusiast | Nikke Player :3
 
-<img align="right" alt="GIF" src="https://media.tenor.com/t5Ym3Ce3ZZkAAAAC/goddess-of-victory-nikke.gif" width="350"  />
+src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
+
 Lifetime Debugger | Flutter Enthusiast
 
 - Working for my inner peace.
