@@ -7,6 +7,8 @@
 <img display="float" align="right" width="400" src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
 
 Lifetime Debugger | Flutter Enthusiast
+
+
 not an expert and still learning new things
 
 - Working for my inner peace.
@@ -30,5 +32,7 @@ not an expert and still learning new things
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div>
+
+
 
 thankyou for checking out my profile
