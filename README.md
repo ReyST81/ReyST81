@@ -2,7 +2,7 @@
 ### Hey there, I'm  reyhan septri asta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 
-#### A Student, Developer | Mobile Enthusiast | Nikke Player :3
+#### A Student, Developer | Mobile Enthusiast
 
 <img display="float" align="right" width="400" src="https://www.prydwen.gg/static/7ce68d265b64365a600be6766964d672/13677/modernia_full.png">
 
